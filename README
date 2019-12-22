@@ -1,0 +1,1 @@
+g++ snake_game.cpp -o snake-game -lncurses
